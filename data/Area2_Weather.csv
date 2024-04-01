@@ -1,4 +1,4 @@
-YMD,最高温度℃,最低温度℃平均温度℃相对湿度(平均),Unnamed: 3,Unnamed: 4,降雨量（mm）
+YMD,Max_Temperature,Min_Temperature,Avg_Temperature,Avg_Humidity,Rainfall
 2012-01-01,20.0,10.4,15.0,67.0,0.0
 2012-01-02,20.7,9.5,14.9,69.0,0.0
 2012-01-03,18.7,12.7,15.0,77.0,0.0
